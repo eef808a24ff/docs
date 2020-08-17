@@ -11,3 +11,5 @@ Still not seeing what you're looking for?
 - You can also browse the docs on link:https://github.com/OpenLiberty/docs[GitHub].
 
 If something's not quite working and you need it fixed ASAP, check out link:/support[Open Liberty Support] from IBM.
+
+link:docs/latest/reference//20.0.0.7/feature/appSecurity.adoc
