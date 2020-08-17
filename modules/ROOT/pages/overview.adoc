@@ -12,6 +12,6 @@ Still not seeing what you're looking for?
 
 If something's not quite working and you need it fixed ASAP, check out link:/support[Open Liberty Support] from IBM.
 
-link:/docs/ref/feature/appSecurity.html[Feature link] test
+xref:reference:feature/appSecurity.adoc[Feature link] test
 
 Test paragraph.
